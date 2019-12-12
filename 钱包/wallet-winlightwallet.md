@@ -1,5 +1,5 @@
 # Windows轻钱包教程  
-1.浏览官网[http://lavatech.org]，下载windows轻钱包，下载完成后，打开钱包，创建一个新的钱包请选择第一项创建一个标准钱包。也可以选择第三项通过导入私钥的形式快速创建钱包。本教程以创建标准钱包步骤为例:  
+1.浏览官网 [http://lavatech.org]，下载windows轻钱包，下载完成后，打开钱包，创建一个新的钱包请选择第一项创建一个标准钱包。也可以选择第三项通过导入私钥的形式快速创建钱包。本教程以创建标准钱包步骤为例:  
 ![image](https://note.youdao.com/yws/api/personal/file/3141FAA151154757ABE11BDEA28A297E?method=download&shareKey=a5dfb491e82a1beaf22b7cac708197fa)  
 2.点击下一步进入到密钥库，因为是创建新钱包，所以应选择创建一个新的密语种子，（密语种子需保存好，可用来恢复钱包）。如果已有密语种子，则选择我已经有一个密语种子，输入已有密语种子即可快速恢复钱包。要创建仅供监视的钱包，请选择第三项输入您的主公钥，要创建可直接动用资金的钱包，选择第三项输入主私钥即可：  
 ![image](https://note.youdao.com/yws/api/personal/file/ABFD8079958E4F31874D86B734EF7AF2?method=download&shareKey=251c85649b6e5a4c6d10f66b75e68264)  
